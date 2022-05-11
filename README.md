@@ -9,7 +9,7 @@ The Take a Hike Connecticut app would be the first of a 50 stte rollout to encou
 
 NOTE: This is a full stack application
 - The backend is deployed on Heroku: https://take-a-hike-ct.herokuapp.com/api/trail/
-- The front end is deployed on Netlify: https://playground--neon-speculoos-911cdd.netlify.app/home
+- The front end is deployed on Netlify: https://playground--neon-speculoos-911cdd.netlify.app
 - This repository is the backend repository for the app 
 - The corresponding front end reposotory can be found at https://github.com/mckenziecamacho/trailblazers-frontend
 
