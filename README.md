@@ -8,9 +8,9 @@ A Trail-finding app by  McKenzie Camacho and Tony Bosco
 The Take a Hike Connecticut app would be the first of a 50 stte rollout to encourage hiking and the enjoyment of the great outdoors.  The app gives users the ability to research hiking destinations with relevant information to help plan their outing.
 
 NOTE: This is a full stack application
+- This repository is the backend repository for the app 
 - The backend is deployed on Heroku: https://take-a-hike-ct.herokuapp.com/api/trail/
 - The front end is deployed on Netlify: https://playground--neon-speculoos-911cdd.netlify.app
-- This repository is the backend repository for the app 
 - The corresponding frontend repository can be found at https://github.com/mckenziecamacho/trailblazers-frontend
 
 ## ABOUT THE BACKEND DEPLOYMENT:
