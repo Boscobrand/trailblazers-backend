@@ -11,7 +11,7 @@ NOTE: This is a full stack application
 - The backend is deployed on Heroku: https://take-a-hike-ct.herokuapp.com/api/trail/
 - The front end is deployed on Netlify: https://playground--neon-speculoos-911cdd.netlify.app
 - This repository is the backend repository for the app 
-- The corresponding front end reposotory can be found at https://github.com/mckenziecamacho/trailblazers-frontend
+- The corresponding frontend repository can be found at https://github.com/mckenziecamacho/trailblazers-frontend
 
 ## ABOUT THE BACKEND DEPLOYMENT:
 
@@ -20,7 +20,7 @@ The back-end of our App is a Node, Express, and Mongoose API with two models tha
 HEROKU:
 The back-end is a crucial part of most apps. It's used in operations involving routing, requests, and data. And, as you know, Heroku is a service that lets you get a back-end app up-and-running quickly.  Through this project, we realized the strengths Hiroku has in a fairly simple approach to set up and ease of use from within the editing environment
 
-MONGO DB:
+MONGO DB ATLAS:
 MongoDB is a solid application platform for database management and analysis. It integrates easily with other platforms and supports transactional, search, analytics, and mobile use cases while using a common query interface and familiar data models.
 
 POSTMAN:
@@ -66,7 +66,7 @@ Our primary compoennts included:
 
 ## PROJECT MANAGEMENT
 
-The team followed daily SCRUM protocols and met for 15 minutes a day to discuss the achievements, the day ahead, and any obstacles we were encountering. GIT PROJECTS was utilized to manage tasks and assignments, and the team operated on a FEATURE BRANCH GIT WORKFLOW  The team was committed to the highly collaborative project, and as SCRUM LEAD I was equally committed to the process as well.
+The team followed daily SCRUM protocols and met for 15 minutes a day to discuss the achievements, the day ahead, and any obstacles we were encountering. GIT PROJECTS was utilized to manage tasks and assignments, and the team operated on a FEATURE BRANCH GIT WORKFLOW  The team was committed to the highly collaborative project, and as SCRUM MANAGER I was equally committed to the process as well.
 
 Our initial timeline estimate was fairly accurate.  We did encounter an issue with one service provider that caused a delay that pushed us back about a day behind schedule unexpectedly.  
 
