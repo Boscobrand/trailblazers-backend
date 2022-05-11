@@ -5,7 +5,7 @@ A Trail-finding app by  McKenzie Camacho and Tony Bosco
 
 ## PROJECT OVERVIEW
 
-The Take a Hike Connecticut app would be the first of a 50 stte rollout to encourage hiking and the enjoyment of the great outdoors.  The app gives users the ability to research hiking destinations with relevant information to help plan their outing.
+The Take a Hike Connecticut app would be the first of a 50 state rollout to encourage hiking and the enjoyment of the great outdoors.  The app gives users the ability to research hiking destinations with relevant information to help plan their outing.
 
 NOTE: This is a full stack application
 - This repository is the backend repository for the app 
