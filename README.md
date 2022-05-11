@@ -38,7 +38,7 @@ Utilized for it's speed and simplicity, and thorough code validation, for deploy
 ## USER STORIES
 
 - As a user, I want to easily search for hiking trails on the site
-- As a user, I want tio search by name or location
+- As a user, I want to search by name or location
 - As a user, I want to be abale to click images and be directed to detailed information
 - As a user, I want to see reviews and insights from the other hikers
 - As a user, I might be interested in saving the information I have found
@@ -66,7 +66,7 @@ Our primary compoennts included:
 
 ## PROJECT MANAGEMENT
 
-The team followed daily SCRUM protocols and met for 15 minutes a day to discuss the achievements, the day ahead, and any obstacles we were encountering. GIT PROJECTS was utilized to manage tasks and assignments, and the team operated on a FEATURE BRANCH GIT WORKFLOW  The team was committed to the highly collaborative process.
+The team followed daily SCRUM protocols and met for 15 minutes a day to discuss the achievements, the day ahead, and any obstacles we were encountering. GIT PROJECTS was utilized to manage tasks and assignments, and the team operated on a FEATURE BRANCH GIT WORKFLOW  The team was committed to the highly collaborative project, and as SCRUM LEAD I was equally committed to the process as well.
 
 Our initial timeline estimate was fairly accurate.  We did encounter an issue with one service provider that caused a delay that pushed us back about a day behind schedule unexpectedly.  
 
